@@ -1,5 +1,5 @@
 # Charla CTA
-Proyectos ejemplo charla alumnos CTA.
+Proyectos de ejemplos charla alumnos CTA.
 
 1- Maven.  
 2- Git.  
